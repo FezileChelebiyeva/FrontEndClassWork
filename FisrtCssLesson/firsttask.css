@@ -1,0 +1,91 @@
+.card {
+    background-color: white;
+    margin: auto;
+    width: 300px;
+    height: 250px;
+    border: 1px solid rgb(224, 6, 188);
+    text-align: center;
+    border-radius: 10px;
+}
+.circle {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(151, 15, 144);
+    border-radius: 50%;
+    margin: 30px auto;
+}
+ 
+.btn {
+    width: 70px;
+    height: 30px;
+    border-radius: 7px;
+    border: 0px;
+    background-color: rgb(235, 202, 207);
+    color: rgb(139, 50, 139);
+   
+}
+.parag {
+    opacity: 0.6;
+}
+ 
+.btn:hover {
+    background-color: rgb(218, 49, 133);
+    color: wheat;
+    cursor: pointer;
+    width: 60px;
+    transition: width 2s;
+ 
+}
+ 
+ 
+ 
+ 
+ 
+.card1 {
+    background-color: white;
+    margin: 40px auto;
+    width: 300px;
+    height: 250px;
+    border: 1px solid blue;
+    text-align: center;
+    border-radius: 10px;
+}
+.circle1 {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(46, 46, 179);
+    border-radius: 50%;
+    margin: 30px auto;
+}
+ 
+.btn1 {
+    width: 70px;
+    height: 30px;
+    border-radius: 7px;
+    border: 0px;
+    background-color: rgb(130, 181, 240);
+    color: blue;
+}
+.parag1 {
+    opacity: 0.6;
+}
+.btn1:hover {
+    background-color: blue;
+    color: wheat;
+    transition: width 6s;
+    cursor: pointer;
+    width: 60px;
+    transition: width 2s;
+}
+ 
+ 
+ 
+ 
+body {
+    background-color: aliceblue;
+}
+ 
+* {
+    box-sizing: border-box;
+}
+ 
